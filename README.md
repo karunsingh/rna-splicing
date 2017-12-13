@@ -1,0 +1,2 @@
+# Instructions
+All the code needed to replicate the results is in the Splice Junction Recognition and Visualization iPython notebook. To run it, several packages will need to be installed. The easy way to set this up is via Anaconda. If you have Anaconda installed, create a new environment using the environment.txt file, which will automatically download the required packages. Then, run `jupyter notebook` to run the iPython server.
